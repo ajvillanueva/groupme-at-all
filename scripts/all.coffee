@@ -1,7 +1,7 @@
 
 https = require 'https'
 
-room_id = process.env.33156957
+room_id = 33156957
 bot_id = process.env.eda2451861bdf46004cc8a3dca
 token = process.env.db0Ruq9E9tGDHtBotP906aEh9dTfxfoeQ7xQzpfQ
 
